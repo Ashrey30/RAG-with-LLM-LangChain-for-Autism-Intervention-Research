@@ -30,10 +30,7 @@ This repository showcases the integration of LangChain, a natural language proce
      ```
      cd <repository_directory>
      ```
-   - Run the Python script containing the code:
-     ```
-     python main_script.py
-     ```
+   - Run the Python notebook containing the code.
 
 4. **Input Question**:
    - Provide a question related to multimodal AI approaches for autism diagnosis when prompted.
@@ -42,9 +39,8 @@ This repository showcases the integration of LangChain, a natural language proce
    - The script will output relevant research documents based on the provided question.
 
 ## Code Structure:
-- **main_script.py**: Contains the main code implementing LangChain integration for document loading, text processing, embedding generation, and document retrieval.
+- **main.ipynb**: Contains the main code implementing LangChain integration for document loading, text processing, embedding generation, and document retrieval.
 - **papers/**: Directory containing PDF documents related to autism diagnosis research.
-- **InstructorEmbedding.py**: Module defining an instructor embedding for contextual document embeddings.
 - **README.md**: This file providing an overview of the repository and usage instructions.
 
 ## Contributors:
